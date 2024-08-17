@@ -6,7 +6,7 @@
 Vue.component("quoty_faq_accordion_component_1723921196", {
     template: `
     <section class="py-8 bg-white pl-4">
-        <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+        <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions</h2>
         <!-- Accordion -->
         <div class="space-y-3">
             <!-- Accordion item -->
@@ -35,10 +35,10 @@ Vue.component("quoty_faq_accordion_component_1723921196", {
     data() {
         return {
             terms: [
-                { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-                { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-                { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-                { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false },
+                { title: "What makes your coffee unique?", description: "Our coffee is sourced from sustainable farms, roasted in small batches, and brewed using innovative techniques to bring out the richest flavors and aromas.", expanded: false },
+                { title: "Do you offer subscriptions?", description: "Yes! We offer flexible subscription plans that deliver fresh, expertly roasted coffee right to your doorstep on a weekly, bi-weekly, or monthly basis.", expanded: false },
+                { title: "What brewing methods do you recommend?", description: "We recommend various brewing methods depending on the coffee blend, including pour-over, French press, and espresso. Each bag comes with tailored brewing instructions for optimal flavor.", expanded: false },
+                { title: "Are your coffee beans organic and fair trade?", description: "Absolutely. We're committed to ethical sourcing and sustainability. All our coffee beans are certified organic and fair trade, ensuring quality for you and fair practices for farmers.", expanded: false },
             ],
         };
     },
