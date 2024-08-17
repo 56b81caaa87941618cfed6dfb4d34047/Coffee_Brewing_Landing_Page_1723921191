@@ -6,7 +6,7 @@
 
 Vue.component("items_table_component_1723921196", {
     template: `
-    <section id="items-table-component" class="py-8 bg-white">
+    <section id="items-table-component" style="min-height: 110px" class="py-8 bg-white">
         <h2 id="costs-title" class="text-lg font-semibold mb-5">Our Signature Brews</h2>
         <div id="costs-table-container" class="overflow-x-auto">
             <table id="costs-table" class="table-auto w-full text-sm">
