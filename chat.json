@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like to maintain the current font and style for the 'About You' section, or are you looking for a new design to distinguish it from other sections?\", \"option1\": \"Maintain current font and style\", \"option2\": \"Design a new style for the section\"}, {\"question 2\": \"Is the content for the 'About You' section ready, or do you need assistance in content creation?\", \"option1\": \"Content is ready\", \"option2\": \"Need assistance with content creation\"}], \"input_token_count\": 274, \"output_token_count\": 119, \"time_taken\": \"0:00:02.865769\"}",
+        "message_id": "guest18082024041516",
+        "timestamp": "18082024041520",
+        "component_file_name": "dark_footer_component_1723953809",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll update it to say \"About You\".",
         "message_id": "guest18082024041516",
