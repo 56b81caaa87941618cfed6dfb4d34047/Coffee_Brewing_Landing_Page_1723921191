@@ -34,7 +34,7 @@ Vue.component("dark_footer_component_1723953809", {
  
             <!-- 2nd block -->
             <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400">About Us</h6>
+                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400">About You</h6>
                 <ul id="footer-block-2-list" class="text-sm space-y-2">
                     <li><a id="footer-block-2-link-1 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Our Story</a></li>
                     <li><a id="footer-block-2-link-2 hover:text-slate-200" class="transition duration-150 ease-in-out text-slate-400" href="#0">Brewing Process</a></li>
