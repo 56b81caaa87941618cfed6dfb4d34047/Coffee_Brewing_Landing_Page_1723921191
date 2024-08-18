@@ -8,7 +8,7 @@
 
 Vue.component("dark_footer_component_1723953809", {
     template: `
-<footer id="footer-section-container" style="min-height: 390px"  class="min-h-190px bg-gradient-to-r from-pink-400 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
+<footer id="footer-section-container" style="min-height: 270px"   class="min-h-190px bg-gradient-to-r from-pink-400 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
         <!-- Blocks -->
         <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
