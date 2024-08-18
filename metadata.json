@@ -4,5 +4,6 @@
     "project_description": "A landing page for a coffee brewing company",
     "creation_time": "2024-08-17 18:59:51.291154",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "quoty"
+    "selected_starter_template_id": "quoty",
+    "frontend_theme_prompt": "The image features an ethereal sci-fi landscape with a predominantly pink and purple color scheme, showcasing celestial bodies and surreal terrain with a reflective water surface, creating a dreamy and otherworldly ambiance."
 }
